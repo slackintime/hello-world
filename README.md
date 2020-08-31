@@ -1,2 +1,3 @@
 # hello-world
 In the beginning...
+... something about myself resisted the commit but craved the merge.
